@@ -1,0 +1,15 @@
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\bin\Debug\AtividadeEXs.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\bin\Debug\AtividadeEXs.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.FrmMenu.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX1.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\AtividadeEXs.csproj.GenerateResource.Cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\AtividadeEXs.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\AtividadeEXs.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX2.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\AtividadeEXs.csprojResolveAssemblyReference.cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX3.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX4.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX5.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX6.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\AtividadeEXs\AtividadeEXs\obj\x86\Debug\WindowsFormsApplication1.frmEX7.resources
